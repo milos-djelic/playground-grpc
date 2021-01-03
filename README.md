@@ -1,4 +1,5 @@
 # GRPC Server and Client in Node.js
+*A simple example of a GRPC client and server*
 
 ## Installation
 
